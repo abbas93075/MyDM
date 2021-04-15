@@ -1,0 +1,56 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource>
+        <file alias="3d.jpg">res/3d.jpg</file>
+        <file alias="3d.png">res/3d.png</file>
+        <file alias="add.png">res/add.png</file>
+        <file alias="add.svg">res/add.svg</file>
+        <file alias="back_arrow.png">res/back_arrow.png</file>
+        <file alias="checked.jpg">res/checked.jpg</file>
+        <file alias="delete.png">res/delete.png</file>
+        <file alias="file_icon.png">res/file_icon.png</file>
+        <file alias="folder_icon.png">res/folder_icon.png</file>
+        <file alias="folder_icon_opened.png">res/folder_icon_opened.png</file>
+        <file alias="info_down.png">res/info_down.png</file>
+        <file alias="info_up.png">res/info_up.png</file>
+        <file alias="mi.png">res/mi.png</file>
+        <file alias="pause.png">res/pause.png</file>
+        <file alias="pbtn_off.png">res/pbtn_off.png</file>
+        <file alias="pbtn_on.png">res/pbtn_on.png</file>
+        <file alias="play.png">res/play.png</file>
+        <file alias="play.svg">res/play.svg</file>
+        <file alias="search.svg">res/search.svg</file>
+        <file alias="settings.png">res/settings.png</file>
+        <file alias="start.png">res/start.png</file>
+        <file alias="start-tst.png">res/start-tst.png</file>
+        <file alias="x.png">res/x.png</file>
+        <file alias="xicon.png">res/xicon.png</file>
+        <file alias="AddDownloadDialog.qml">AddDownloadDialog.qml</file>
+        <file alias="CheckedDayDelegate.qml">CheckedDayDelegate.qml</file>
+        <file alias="CustomButton.qml">CustomButton.qml</file>
+        <file alias="CustomButtonGroup.qml">CustomButtonGroup.qml</file>
+        <file alias="CustomCheckbox.qml">CustomCheckbox.qml</file>
+        <file alias="CustomComboBox.qml">CustomComboBox.qml</file>
+        <file alias="CustomMessageDialog.qml">CustomMessageDialog.qml</file>
+        <file alias="CustomProgressBar.qml">CustomProgressBar.qml</file>
+        <file alias="CustomRadioButton.qml">CustomRadioButton.qml</file>
+        <file alias="CustomTabButton.qml">CustomTabButton.qml</file>
+        <file alias="CustomTextInput.qml">CustomTextInput.qml</file>
+        <file alias="DayCheckBox.qml">DayCheckBox.qml</file>
+        <file alias="DeleteDownloadDialog.qml">DeleteDownloadDialog.qml</file>
+        <file alias="DownloadListDelegate.qml">DownloadListDelegate.qml</file>
+        <file alias="InfoSection.qml">InfoSection.qml</file>
+        <file alias="ListSubMenu.qml">ListSubMenu.qml</file>
+        <file alias="Main.qml">Main.qml</file>
+        <file alias="MainPage.qml">MainPage.qml</file>
+        <file alias="NetworkTab.qml">NetworkTab.qml</file>
+        <file alias="Scheduler.qml">Scheduler.qml</file>
+        <file alias="SchedulerDialog.qml">SchedulerDialog.qml</file>
+        <file alias="SearchModule.qml">SearchModule.qml</file>
+        <file alias="SectionTitle.qml">SectionTitle.qml</file>
+        <file alias="SettingsPage.qml">SettingsPage.qml</file>
+        <file alias="SystemTab.qml">SystemTab.qml</file>
+        <file alias="TabButtonStyle.qml">TabButtonStyle.qml</file>
+        <file alias="TimeSelector.qml">TimeSelector.qml</file>
+    </qresource>
+</RCC>
